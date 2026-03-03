@@ -11,3 +11,7 @@ void input(){
     cout << "masukkan lebar :";
     cin >> l;
 }
+
+float LuasPersegi(float x,float y){
+    return x*y;
+}
