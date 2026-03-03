@@ -15,3 +15,6 @@ void input()
 float LuasPersegi(){
     return p*l;
 }
+void Output () {
+    cout <<"Hasilnya = " << LuasPersegi();
+}
