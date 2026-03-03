@@ -22,3 +22,11 @@ int jumlah(int a, int b, int c){
 void Output () {
     cout <<"Hasilnya = " << LuasPersegi(p,l) << endl;
 }
+
+// program utama 
+int main()
+{//start
+    input ();
+    Output ();
+    cout << "hasil Penjumlahan = "<< jumlah(5,6,9);
+}//selesai
