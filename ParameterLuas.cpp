@@ -19,3 +19,6 @@ float LuasPersegi(float x,float y){
 int jumlah(int a, int b, int c){
     return a+b+c;
 }
+void Output () {
+    cout <<"Hasilnya = " << LuasPersegi(p,l) << endl;
+}
